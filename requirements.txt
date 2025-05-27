@@ -1,3 +1,4 @@
 selenium
 transformers
 torch
+undetected-chromedriver
